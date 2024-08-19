@@ -1,0 +1,1 @@
+python run_rag.py -q "who are Harry friends"

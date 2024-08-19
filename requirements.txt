@@ -1,0 +1,7 @@
+PyPDF2
+pgvector
+llamaindex
+ollama
+python-dotenv
+fastapi
+uvicorn
